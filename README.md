@@ -1,2 +1,3 @@
 # Depi_TestingGraduationProject
-Automation Testing Graduation Project using Selenium and TestNG
+Manual Testing , Database Testing , API Testing.
+Automation Testing using Selenium and TestNG
